@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Pavê 🍮
 
 ### Ingredientes
@@ -32,4 +32,4 @@
 12. Despeje esse ganache por cima da ultima camada de creme e espalhe bem.
 13. Leve para a geladeira e deixe por 3 horas.
 
-Depois só ser feliz...
+Depois só ser feliz...:yum:
